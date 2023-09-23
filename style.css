@@ -18,6 +18,10 @@ header{
     margin: 30px;
 
 }
+.nav-bar ul li a{
+    color: white;
+    text-decoration: none;
+}
 .nav-bar ul li:hover{
 
     color: rgb(51, 51, 194);
